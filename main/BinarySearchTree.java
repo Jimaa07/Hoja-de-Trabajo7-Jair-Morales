@@ -1,3 +1,4 @@
+package main;
 public class BinarySearchTree<E extends Comparable<E>> {
 
     private Nodo<E> root;

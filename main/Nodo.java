@@ -1,3 +1,4 @@
+package main;
 public class Nodo<E> {
     E data;
     Nodo<E> left, right;

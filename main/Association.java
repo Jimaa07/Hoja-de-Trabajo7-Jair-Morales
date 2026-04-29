@@ -1,3 +1,4 @@
+package main;
 public class Association<K extends Comparable<K>, V> implements Comparable<Association<K, V>> {
     private K key;
     private V value;
